@@ -14,7 +14,7 @@ This repository contains Voting System project. Voting System project contains 2
 - Compile and interpret the Vote.java file in order to create the candidancy list and voter list
 - Run projectVoter.java in order to login as a Voter and then cast your vote
 <br>
-** You can test multiple things such as trying to vote for someone not in the candidancy list, try to cast multiple votes from a single voter ID etc.
+* You can test multiple things such as trying to vote for someone not in the candidancy list, try to cast multiple votes from a single voter ID etc. *
         
 ![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Anshumaan-Chauhan02)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshumaan-Chauhan02&layout=compact)
