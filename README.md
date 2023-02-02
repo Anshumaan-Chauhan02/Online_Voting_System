@@ -10,8 +10,7 @@ This repository contains Voting System project. Voting System project contains 2
 * projectVoter.java : Creates a Voter/Candidate profile
 
 #### Steps to run the  project:
-- Install BlueJ 
-    https://bluej.org/
+- Install BlueJ : https://bluej.org/
 - Compile and interpret the Vote.java file in order to create the candidancy list and voter list
 - Run projectVoter.java in order to login as a Voter and then cast your vote
 <br>
